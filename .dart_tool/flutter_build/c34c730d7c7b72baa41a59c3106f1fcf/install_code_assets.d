@@ -1,0 +1,1 @@
+ /Users/davidabari/mad/provider_counter_app/.dart_tool/flutter_build/c34c730d7c7b72baa41a59c3106f1fcf/native_assets.json: 

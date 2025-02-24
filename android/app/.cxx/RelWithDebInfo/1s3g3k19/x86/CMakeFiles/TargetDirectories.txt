@@ -1,0 +1,2 @@
+/Users/davidabari/provider_counter_app/android/app/.cxx/RelWithDebInfo/1s3g3k19/x86/CMakeFiles/edit_cache.dir
+/Users/davidabari/provider_counter_app/android/app/.cxx/RelWithDebInfo/1s3g3k19/x86/CMakeFiles/rebuild_cache.dir
